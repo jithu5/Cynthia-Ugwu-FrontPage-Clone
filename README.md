@@ -1,10 +1,14 @@
-# Cynthia-Ugwu-FrontPage-Clone
- <h1>Home - Frontpage Clone</h1>
+ <h1>CYNTHIA UGWU'S FRONTPAGE CLONE</h1>
 
-<p>This repository replicates the front page of Cynthia Ugwu's award-winning website. The project was created for educational purposes and showcases the replication of the original design using HTML, CSS, and JavaScript.</p>
+# OUTPUT
+![Screenshot page1](https://github.com/jithu5/Cynthia-Ugwu-FrontPage-Clone/assets/113033555/3ca0f5f4-35ff-4030-9106-0d257d64d0c0)
+
+![Screenshot page2](https://github.com/jithu5/Cynthia-Ugwu-FrontPage-Clone/assets/113033555/143555f1-c084-47c3-80c4-443c2e69b546)
+
+![Screenshot page3](https://github.com/jithu5/Cynthia-Ugwu-FrontPage-Clone/assets/113033555/31f0ffbb-345d-484e-b1e0-f2ff24b475e7)
 
 <h2>GitHub Repository Description</h2>
-
+<p>This repository replicates the front page of Cynthia Ugwu's award-winning website. The project was created for educational purposes and showcases the replication of the original design using HTML, CSS, and JavaScript.</p>
 <p>Clone of the Cynthia Ugwu product designer front page. Built using HTML, CSS, and JavaScript, this project employs Locomotive Scroll for seamless scrolling effects and GSAP for animations. Explore smooth transitions, interactive elements, and a modern design that mirrors the original site.</p>
 
 <h2>Description</h2>
